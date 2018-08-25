@@ -204,7 +204,7 @@ if (message === 'Please sign in.' || message === 'Link up with your friends to g
 // => "blue"
 ```
 
-## Conclucion 
+## Conclusion 
 Logical operators in Javascript are the powerful backbone on which most website logic is based. Once you understand how to control the different options available to you, the sky's the limit!
 
 ## Resources
